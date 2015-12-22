@@ -1,94 +1,94 @@
 Ölçü 1:
-Si,1/4
-Si,1/4
-Do,1/4
-Re,1/4
+Si,1oktav,1/4
+Si,1oktav,1/4
+Do,2oktav,1/4
+Re,2oktav,1/4
 
 Ölçü 2:
-Re,1/4
-Do,1/4
-Si,1/4
-La,1/4
+Re,2oktav,1/4
+Do,2oktav,1/4
+Si,1oktav,1/4
+La,1oktav,1/4
 
 Ölçü 3:
-Sol,1/4
-Sol,1/4
-La,1/4
-Si,1/4
+Sol,1oktav,1/4
+Sol,1oktav,1/4
+La,1oktav,1/4
+Si,2oktav,1/4
 
 Ölçü 4:
-Si,3/4
-La,1/8
-La,1/2
+Si,2oktav,3/8
+La,1oktav,1/8
+La,1oktav,1/2
 
 Ölçü 5:
-Si,1/4
-Si,1/4
-Do,1/4
-Re,1/4
+Si,1oktav,1/4
+Si,1oktav,1/4
+Do,2oktav,1/4
+Re,2oktav,1/4
 
 Ölçü 6:
-Re,1/4
-Do,1/4
-Si,1/4
-La,1/4
+Re,2oktav,1/4
+Do,2oktav,1/4
+Si,1oktav,1/4
+La,1oktav,1/4
 
 Ölçü 7;
-Sol,1/4
-Sol,1/4
-La,1/4
-Si,1/4
+Sol,1oktav,1/4
+Sol,1oktav,1/4
+La,1oktav,1/4
+Si,1oktav,1/4
 
 Ölçü 8:
-La,3/4
-Sol,1/8
-Sol,1/2
+La,1oktav,3/8
+Sol,1oktav,1/8
+Sol,1oktav,1/2
 
 Ölçü 9:
-La,1/4
-La,1/4
-Si,1/4
-Sol,1/4
+La,1oktav,1/4
+La,1oktav,1/4
+Si,1oktav,1/4
+Sol,1oktav,1/4
 
 Ölçü 10;
-La,1/4
-Si,1/8
-Do,1/8
-Si,1/4
-Sol,1/4
+La,1oktav,1/4
+Si,1oktav,1/8
+Do,2oktav,1/8
+Si,1oktav,1/4
+Sol,1oktav,1/4
 
 
 Ölçü 11:
-La,1/4
-Si,1/8
-Do,1/8
-Si,1/4
-La,1/4
+La,1oktav,1/4
+Si,1oktav,1/8
+Do,2oktav,1/8
+Si,1oktav,1/4
+La,1oktav,1/4
 
 Ölçü 12:
-Sol,1/4
-La,1/4
-Re,1/2
+Sol,1oktav,1/4
+La,1oktav,1/4
+Re,1oktav,1/2
 
 Ölçü 13:
-Si,1/4
-Si,1/4
-Do,1/4
-Re,1/4
+Si,1oktav,1/4
+Si,1oktav,1/4
+Do,2oktav,1/4
+Re,2oktav1/4
 
 Ölçü 14:
-Re,1/4
-Do,1/4
-Si,1/4
-La,1/4
+Re,2oktav,1/4
+Do,2oktav,1/4
+Si,1oktav,1/4
+La,1oktav,1/4
 
 Ölçü 15:
-Sol,1/4
-Sol,1/4
-La,1/4
-Si,1/4
+Sol,1oktav,1/4
+Sol,1oktav,1/4
+La,1oktav,1/4
+Si,2oktav,1/4
 
 Ölçü 16:
-La,3/4
-Sol,1/8
-Sol,1/2
+La,1oktav,3/8
+Sol,1oktav,1/8
+Sol,1oktav,1/2
